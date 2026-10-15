@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Etichette: label printing for production reels and pallets (db, 2000–2001)"
+version: "1.0"
+abstract: "Etichette prints the identification labels of the reels produced by a plastic-film plant. For each production order (ODL) the operator enters length, weight, colour, thickness, height, type, customer order and date, chooses the number of copies and prints the labels; the printed labels are logged. The repository contains the four variants used in the plant: the standard version, the versions for dot-matrix (needle) and laser printers, and the pallet label that reads the production-order data."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+date-released: "2001-07-23"
+repository-code: "https://github.com/massimosbarbaro/production-reel-labels-access"
+keywords:
+  - "Microsoft Access"
+  - "label printing"
+  - "manufacturing"
+  - "production orders"
+  - "plastic film"
+  - "legacy software"

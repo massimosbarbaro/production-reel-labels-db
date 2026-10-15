@@ -1,0 +1,24 @@
+{
+  "title": "Etichette: label printing for production reels and pallets (db, 2000–2001)",
+  "upload_type": "software",
+  "publication_date": "2001-07-23",
+  "description": "<p><em>Stampa delle etichette delle bobine di produzione e dei pallet</em></p><p>Etichette prints the identification labels of the reels produced by a plastic-film plant. For each production order (ODL) the operator enters length, weight, colour, thickness, height, type, customer order and date, chooses the number of copies and prints the labels; the printed labels are logged. The repository contains the four variants used in the plant: the standard version, the versions for dot-matrix (needle) and laser printers, and the pallet label that reads the production-order data.</p><p>Designed and programmed by Massimo Sbarbaro in 2000–2001 (db). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Microsoft Access",
+    "label printing",
+    "manufacturing",
+    "production orders",
+    "plastic film",
+    "legacy software"
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "Original development: 2000–2001."
+}
