@@ -10,9 +10,9 @@ authors:
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
 date-released: "2001-07-23"
-repository-code: "https://github.com/massimosbarbaro/production-reel-labels-access"
+repository-code: "https://github.com/massimosbarbaro/production-reel-labels-db"
 keywords:
-  - "Microsoft Access"
+  - "db"
   - "label printing"
   - "manufacturing"
   - "production orders"
