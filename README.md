@@ -1,5 +1,7 @@
 # Etichette: label printing for production reels and pallets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23398740.svg)](https://doi.org/10.5281/zenodo.23398740)
+
 *Stampa delle etichette delle bobine di produzione e dei pallet*
 
 **db** · 2000–2001 · version 1.0  
@@ -45,9 +47,9 @@ The database is published **empty**: every table has been emptied, the file comp
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*).
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23398740](https://doi.org/10.5281/zenodo.23398740).
 
-> Sbarbaro, Massimo. 2001. *Etichette: label printing for production reels and pallets*. Software (db, 2000–2001), version 1.0. GitHub. https://github.com/massimosbarbaro/production-reel-labels-db.
+> Sbarbaro, Massimo. 2001. *Etichette: label printing for production reels and pallets*. Software (db, 2000–2001), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23398740.
 
 ## License
 
